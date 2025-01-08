@@ -30,8 +30,6 @@ mediapipe==0.10.20
 ml_dtypes==0.5.1
 narwhals==1.21.1
 numpy==1.26.4
-opencv-contrib-python==4.10.0.84
-opencv-python==4.10.0.84
 opt_einsum==3.4.0
 packaging==24.2
 pandas==2.2.3
