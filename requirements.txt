@@ -62,3 +62,5 @@ tzdata==2024.2
 urllib3==2.3.0
 watchdog==6.0.0
 opencv-python-headless
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84
